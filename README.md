@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Classifiedhub
+- 👋 Hi, I’m @Cedric Pacli
 - 👀 I’m interested in learning more about Python for now
 - 🌱 I’m currently learning Python
 
